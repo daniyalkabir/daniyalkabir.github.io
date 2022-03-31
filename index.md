@@ -2,12 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Resume
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Resume](images/resume1.png?raw=true)
+<img src="images/resume1.png?raw=true"/>
+<img src="images/resume2.png?raw=true"/>
 
----
+<!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -26,7 +27,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+ -->
 
 
 
