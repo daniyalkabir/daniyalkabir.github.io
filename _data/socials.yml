@@ -1,0 +1,11 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+
+email: dardaniy@msu.edu # your email address
+github_username: daniyalkabir
+linkedin_username: daniyal-kabir-dar-67686b197
+x_username: KabirDaniyal
+scholar_userid: fsQFOm0AAAAJ # your Google Scholar ID
+rss_icon: true # comment this line to hide the RSS icon
+cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file - replace assets/pdf/CV.pdf with your own CV

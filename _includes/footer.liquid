@@ -1,0 +1,14 @@
+<footer class="footer">
+  <div class="container">
+    {% if site.footer_text %}
+      <div class="row justify-content-center">
+        <div class="col-sm-12 text-center">
+          {{ site.footer_text }}
+        </div>
+      </div>
+    {% endif %}
+
+    {% include visitor_map.liquid %}
+
+  </div>
+</footer>

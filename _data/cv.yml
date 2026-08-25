@@ -1,0 +1,90 @@
+cv:
+  name: Daniyal Kabir Dar
+  label: PhD Student, Computer Science
+  email: dardaniy@msu.edu
+  location: East Lansing, MI
+  image: ""
+  summary: PhD student at Michigan State University's iProbe Lab working on audio deepfake detection, speaker identity bias, adversarial robustness, and explainability in biometric systems.
+
+  social_networks:
+    - network: GitHub
+      username: daniyalkabir
+    - network: LinkedIn
+      username: daniyal-kabir-dar-67686b197
+    - network: X
+      username: KabirDaniyal
+
+  address:
+    street: ""
+    city: East Lansing
+    region: Michigan
+    postalCode: ""
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Michigan State University
+        location: East Lansing, MI
+        url: https://www.cse.msu.edu/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2023
+        end_date: 2028
+        score: ""
+        courses: "Adversarial Machine Learning, Pattern Recognition"
+        highlights:
+          - "Advised by Dr. Arun Ross, iProbe Lab"
+          - "Research focus: audio deepfake detection, speaker identity sensitivity, adversarial robustness, explainable biometrics"
+
+    Experience:
+      - company: iProbe Lab, Michigan State University
+        position: Graduate Research Assistant
+        location: East Lansing, MI
+        start_date: 2023
+        end_date: Present
+        summary: Research on audio deepfake detection, speaker identity bias in detectors, adversarial robustness of speech systems, and explainability in biometric systems.
+        highlights:
+          - "Developed the Identity Sensitivity Score (ISS), a label-free diagnostic for identity reliance in audio deepfake detectors (IJCB 2026)"
+          - "Studied phoneme-level effects of adversarial perturbations on speaker identity (ICASSP 2026, oral)"
+          - "Building a contrastive, speaker-normalized explanation-generation system grounded in acoustic measurements for deepfake detection (ICASSP 2027, in progress)"
+
+    Publications:
+      - title: Probing Speaker Identity Sensitivity in Audio Deepfake Detectors
+        authors:
+          - Daniyal Kabir Dar
+          - Arun Ross
+        publisher: IEEE/IAPR International Joint Conference on Biometrics (IJCB)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2607.21820
+        summary: Introduces the Identity Sensitivity Score (ISS), a per-utterance, label-free diagnostic that measures how much a detector's output changes across speaker-identity contexts.
+
+      - title: Impact of Phonetics on Speaker Identity in Adversarial Voice Attack
+        authors:
+          - Daniyal Kabir Dar
+          - Qiben Yan
+          - Li Xiao
+          - Arun Ross
+        publisher: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2509.15437
+        summary: Analyzes adversarial audio perturbations at the phonetic level, showing they exploit systematic phonetic confusions that degrade speaker-identity cues. Presented as an oral talk.
+
+    Skills:
+      - name: Machine Learning & Audio
+        level: Advanced
+        icon: fa-solid fa-wave-square
+        keywords: "Audio Deepfake Detection, Speaker Verification, Adversarial Robustness, Explainable AI, Biometrics"
+
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Audio Forensics, Speech ML, Biometric Security, Voice AI"
+
+      - name: Beyond the Lab
+        icon: fa-solid fa-tag
+        keywords: "Startup & agentic-tool ideas, PC gaming"
